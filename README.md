@@ -35,7 +35,7 @@ All roman numerals answers should be provided in upper-case.
 
 ### Links
 
-- Solution URL: [@GitHub](https://github.com/xdelmo/palindrome-checker)
+- Solution URL: [@GitHub](https://github.com/xdelmo/roman-numeral-converter)
 
 ## Author
 
